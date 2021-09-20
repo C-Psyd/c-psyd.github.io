@@ -1,0 +1,13 @@
+
+
+- date: 26. Aug 2021
+  headline: <a href="https://vansky.github.io/assets/pdf/timkey_vanschijndel-2021-emnlp.pdf">Timkey and van Schijndel (2021; EMNLP)</a> shows that cosine similarity doesn't work for Transformer models. We introduce a simple method to correct the issue without retraining.
+
+- date: 25. June 2021
+  headline: <a href="https://vansky.github.io/assets/pdf/vanschijndel_linzen-2021-cogscij.pdf">Paper published in Cognitive Science!</a><br>
+  Surprisal can only explain the existence of garden path effects in reading times, not the magnitude of the effects themselves.
+
+- date: 10. May 2021
+  headline: 2 papers accepted at ACL and ACL Findings:<br>
+  1) <a href="https://aclanthology.org/2021.acl-long.93/">Davis and van Schijndel (2021)</a> shows that linguistic knowledge in language models can be modeled as constraints.<br>
+  2) <a href="https://aclanthology.org/2021.findings-acl.298/">Wilber et al. (2021)</a> shows that abstractive summarization is extremely shallow at present, often simply emulating extractive summarization.
