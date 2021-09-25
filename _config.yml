@@ -10,7 +10,7 @@ title: Computational Psycholinguistic Discussions (C.Psyd)
 email: mv443@cornell.edu
 description: > # this means to ignore newlines until "baseurl:"
   We are interested in the intersection of computational linguistics and psycholinguistics. By building computational models to predict human language processing behavior (e.g., reading times), we can study the linguistic features that impact human processing decisions. Relatedly, C.Psyd members use psycholinguistic techniques to study the strategies used by neural networks to produce high accuracy in different language contexts, which gives us insights as to when different strategies might be employed by humans.
-baseurl: ""
+baseurl: "https://vansky.github.io/cpsyd.github.io/"
 url: ""
 
 include:
