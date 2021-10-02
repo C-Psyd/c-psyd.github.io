@@ -1,0 +1,75 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Katherine Blake
+  photo: rock.jpg
+  info: PhD Student, started 2017
+  email: kmb382@cornell.edu
+  number_educ: 1
+  education1: laboratory phonology, phonetics/phonology interface, computational methods
+
+- name: Anna Choi
+  photo: rock.jpg
+  info: PhD Student, started 2021
+  email: sc2359@cornell.edu
+  number_educ: 1
+  education1: dialect, accent, AI ethics
+
+- name: Thomas Darnell
+  photo: rock.jpg
+  info: PhD Student, started 2020
+  email: tjd229@cornell.edu
+  number_educ: 1
+  education1: syntax, language change, computational linguistics
+
+- name: Forrest Davis
+  photo: rock.jpg
+  info: PhD Student, started 2017
+  email: fd252@cornell.edu
+  number_educ: 1
+  education1: discourse, event representations, psycholinguistics
+
+- name: Kaelyn Lamp
+  photo: rock.jpg
+  info: PhD Student, started 2018
+  email: kjl227@cornell.edu
+  number_educ: 1
+  education1: phonetics, computational semantics, Bayesian statistics
+
+- name: Cindy Qin
+  photo: rock.jpg
+  info: PhD Student, started 2020
+  email: cq82@cornell.edu
+  number_educ: 1
+  education1: computational psycholinguistics, Chinese linguistics
+
+- name: Joseph Rhyne
+  photo: rock.jpg
+  info: PhD Student, started 2020
+  email: jtr92@cornell.edu
+  number_educ: 1
+  education1: computational historical linguistics, modeling language change
+
+- name: John Starr
+  photo: rock.png
+  info: PhD Student, started 2020
+  email: jrs673@cornell.edu
+  number_educ: 1
+  education1: computational linguistics, poetry, psycholinguistics
+
+- name: Nianpo Su
+  photo: rock.jpg
+  info: PhD Student, started 2021
+  email: ns674@cornell.edu
+  number_educ: 4
+  education1: language acquisition
+  education2: syntax
+  education3: psycholinguistics
+  education4: language processing
