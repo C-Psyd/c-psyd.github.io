@@ -1,0 +1,70 @@
+- name: Marten van Schijndel
+  photo: rock.jpg
+  info: Assistant Professor, started July 2019
+  email: mv443@cornell.edu
+  number_educ: 2
+  education1: PhD OSU with <a href="https://www.asc.ohio-state.edu/schuler.77/">William Schuler</a>
+  education2: Postdoc JHU with <a href="https://tallinzen.net/">Tal Linzen</a>
+
+- name: Katherine Blake
+  photo: rock.jpg
+  info: PhD Student, started Sep 2017
+  email: kmb382@cornell.edu
+  number_educ: 1
+  education1: laboratory phonology, phonetics/phonology interface, computational methods
+
+- name: Anna Choi
+  photo: rock.jpg
+  info: PhD Student, started Sep 2021
+  email: sc2359@cornell.edu
+  number_educ: 1
+  education1: dialect, accent, AI ethics
+
+- name: Thomas Darnell
+  photo: rock.jpg
+  info: PhD Student, started Sep 2020
+  email: tjd229@cornell.edu
+  number_educ: 1
+  education1: syntax, language change, computational linguistics
+
+- name: Forrest Davis
+  photo: rock.jpg
+  info: PhD Student, started Sep 2017
+  email: fd252@cornell.edu
+  number_educ: 1
+  education1: discourse, event representations, psycholinguistics
+
+- name: Kaelyn Lamp
+  photo: rock.jpg
+  info: PhD Student, started Sep 2018
+  email: kjl227@cornell.edu
+  number_educ: 1
+  education1: phonetics, computational semantics, Bayesian statistics
+
+- name: Cindy Qin
+  photo: rock.jpg
+  info: PhD Student, started Sep 2020
+  email: cq82@cornell.edu
+  number_educ: 1
+  education1: computational psycholinguistics, Chinese linguistics
+
+- name: Joseph Rhyne
+  photo: rock.jpg
+  info: PhD Student, started Sep 2020
+  email: jtr92@cornell.edu
+  number_educ: 1
+  education1: computational historical linguistics, modeling language change
+
+- name: John Starr
+  photo: rock.png
+  info: PhD Student, started September 2020
+  email: jrs673@cornell.edu
+  number_educ: 1
+  education1: computational linguistics, poetry, psycholinguistics
+
+- name: Nianpo Su
+  photo: rock.jpg
+  info: language acquisition, syntax, psycholinguistics and language processing
+  email: ns674@cornell.edu
+  number_educ: 1
+  education1: language acquisition, syntax, psycholinguistics and language processing
