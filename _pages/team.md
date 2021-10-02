@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new Postdocs, PhD, Masters and Undergraduate students to join C.Psyd** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [faculty](#faculty), [phd students](#phd_students), [bachelors and masters students](#bachelors_and_masters_students), [alumni](#alumni)
+Jump to [faculty](#faculty), [phd students](#phd-students), [bachelors and masters students](#bachelors-and-masters-students), [alumni](#alumni)
 
 ## Faculty
 {% assign number_printed = 0 %}
@@ -26,7 +26,7 @@ Jump to [faculty](#faculty), [phd students](#phd_students), [bachelors and maste
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -93,7 +93,7 @@ Jump to [faculty](#faculty), [phd students](#phd_students), [bachelors and maste
 <div class="col-sm-6 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -148,7 +148,7 @@ Jump to [faculty](#faculty), [phd students](#phd_students), [bachelors and maste
 <div class="col-sm-6 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
