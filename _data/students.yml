@@ -58,7 +58,7 @@
   education1: computational historical linguistics, modeling language change
 
 - name: John Starr
-  photo: rock.png
+  photo: rock.jpg
   info: PhD Student, started 2020
   email: jrs673@cornell.edu
   number_educ: 1
@@ -68,8 +68,5 @@
   photo: rock.jpg
   info: PhD Student, started 2021
   email: ns674@cornell.edu
-  number_educ: 4
-  education1: language acquisition
-  education2: syntax
-  education3: psycholinguistics
-  education4: language processing
+  number_educ: 1
+  education1: language acquisition, syntax, psycholinguistics, language processing
