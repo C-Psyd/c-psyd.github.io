@@ -11,11 +11,11 @@ permalink: /team/
  **We are  looking for new Postdocs, PhD, Masters and Undergraduate students to join C.Psyd** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [faculty](#faculty), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [lab visitors](#lab-visitors).
+Jump to [faculty](#faculty), [students](#students), [alumni](#alumni)
 
 ## Faculty
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.faculty %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -77,8 +77,7 @@ Jump to [faculty](#faculty), [master and bachelor students](#master-and-bachelor
 
 
 
-
-## Master and Bachelor Students
+## Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
