@@ -8,65 +8,23 @@
 #  education3:
 #  education4:
 
-- name: Katherine Blake
+- name: Debasmita Bhattacharya
   photo: rock.jpg
-  info: PhD Student, started 2017
-  email: kmb382@cornell.edu
+  info: MEng Student, started 2021
+  email: db758@cornell.edu
   number_educ: 1
-  education1: laboratory phonology, phonetics/phonology interface, computational methods
+  education1: code-switching, bias and fairness, syntax and semantics
 
-- name: Anna Choi
+- name: Reetu Parikh
   photo: rock.jpg
-  info: PhD Student, started 2021
-  email: sc2359@cornell.edu
+  info: BS Student, started 2021
+  email: 
   number_educ: 1
-  education1: dialect, accent, AI ethics
+  education1: syntactic ambiguity
 
-- name: Thomas Darnell
+- name: William Timkey
   photo: rock.jpg
-  info: PhD Student, started 2020
-  email: tjd229@cornell.edu
+  info: Post-Bac Researcher, started 2020
+  email: wpt25@cornell.edu
   number_educ: 1
-  education1: syntax, language change, computational linguistics
-
-- name: Forrest Davis
-  photo: rock.jpg
-  info: PhD Student, started 2017
-  email: fd252@cornell.edu
-  number_educ: 1
-  education1: discourse, event representations, psycholinguistics
-
-- name: Kaelyn Lamp
-  photo: rock.jpg
-  info: PhD Student, started 2018
-  email: kjl227@cornell.edu
-  number_educ: 1
-  education1: phonetics, computational semantics, Bayesian statistics
-
-- name: Cindy Qin
-  photo: rock.jpg
-  info: PhD Student, started 2020
-  email: cq82@cornell.edu
-  number_educ: 1
-  education1: computational psycholinguistics, Chinese linguistics
-
-- name: Joseph Rhyne
-  photo: rock.jpg
-  info: PhD Student, started 2020
-  email: jtr92@cornell.edu
-  number_educ: 1
-  education1: computational historical linguistics, modeling language change
-
-- name: John Starr
-  photo: rock.jpg
-  info: PhD Student, started 2020
-  email: jrs673@cornell.edu
-  number_educ: 1
-  education1: computational linguistics, poetry, psycholinguistics
-
-- name: Nianpo Su
-  photo: rock.jpg
-  info: PhD Student, started 2021
-  email: ns674@cornell.edu
-  number_educ: 1
-  education1: language acquisition, syntax, psycholinguistics, language processing
+  education1: language acquisition, learnability, neural methods, typology, syntax
