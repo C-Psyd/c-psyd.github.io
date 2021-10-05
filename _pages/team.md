@@ -192,7 +192,7 @@ Jump to [faculty](#faculty), [phd students](#phd-students), [bachelors and maste
 
 ## Alumni
 
-<!-- <h4>PhDs</h4> -->
+<h4>PhDs</h4>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_phd %}
