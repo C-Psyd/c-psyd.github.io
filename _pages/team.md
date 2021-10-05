@@ -192,8 +192,10 @@ Jump to [faculty](#faculty), [phd students](#phd-students), [bachelors and maste
 
 ## Alumni
 
+<!-- <h4>PhDs</h4> -->
+
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.alumni_phd %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -223,7 +225,6 @@ Jump to [faculty](#faculty), [phd students](#phd-students), [bachelors and maste
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -234,14 +235,14 @@ Jump to [faculty](#faculty), [phd students](#phd-students), [bachelors and maste
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Master students</h4>
+<h4>Masters students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
+<h4>Bachelors Students</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
