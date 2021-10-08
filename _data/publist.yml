@@ -59,7 +59,7 @@
   news2: 
 
 - title: "Discourse structure interacts with reference but not syntax in neural language models"
-  image: rock.png
+  image: davis_vs-20-conll.png
   description: Transformers encode implicit causality verb biases but fail to use that knowledge to make correct predictions. Validates Hartshorne’s theory that IC is learnable from language sequences, but suggests that the language modeling objective prevents models from using this knowledge.
   authors: F Davis, M van Schijndel
   link:
