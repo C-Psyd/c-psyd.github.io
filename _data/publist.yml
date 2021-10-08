@@ -1,0 +1,89 @@
+- title: "Single-stage prediction models do not explain the magnitude of syntactic disambiguation difficulty"
+  image: vsL-21.png
+  description: We show that surprisal (or more generally, single-stage prediction models) can only explain the existence of garden path effects in reading times, not the magnitude of the effects themselves. Suggests the existence of explicit repair mechanisms are involved during garden path processing.
+  authors: M van Schijndel, T Linzen
+  link:
+    url: https://vansky.github.io/assets/pdf/vanschijndel_linzen-2021-cogscij.pdf
+    display: Cognitive Science, 45 (6): e12988. (2021)
+  highlight: 1
+  news2:
+
+- title: "All Bark and No Bite: Rogue Dimensions in Transformer Language Models Obscure Representational Quality"
+  image: timkey_cosine_measures.png
+  description: We show that Transformer models consistently develop rogue dimensions that operate at bizarrely inflated scales and track relatively uninteresting phenomena (e.g., time since last punctuation mark). The inflated scale distorts similarity estimates and makes cosine a poor measure of similarity. We introduce a very simple method to correct for the issue that retains all information in the model and requires no retraining.
+  authors: W Timkey, M van Schijndel
+  link:
+    url: https://vansky.github.io/assets/pdf/timkey_vanschijndel-2021-emnlp.pdf
+    display: Proc. EMNLP (2021)
+  highlight: 1
+  news2: 
+
+- title: "Uncovering Constraint-Based Behavior in Neural Models via Targeted Fine-Tuning"
+  image: rock.png
+  description: We show that linguistic knowledge in language models can be modeled as constraints. Thus, some linguistic representations can prevent other learned linguistic knowledge from surfacing. We show how to fix this, but more generally we outline a framework for thinking about language representations in neural networks.
+  authors: F Davis, M van Schijndel
+  link:
+    url: https://aclanthology.org/2021.acl-long.93.pdf
+    display: Proc. ACL (2021)
+  highlight: 1
+  news2: 
+
+- title: "To Point or Not to Point: Understanding How Abstractive Summarizers Paraphrase Text"
+  image: rock.png
+  description: We explore the abstractive capabilities of automatic summarization models. We show that abstractive summarization is extremely shallow at present, often simply emulating extractive summarization.
+  authors: M Wilber, W Timkey, M van Schijndel
+  link:
+    url: https://aclanthology.org/2021.findings-acl.298.pdf
+    display: Findings of ACL (2021)
+  highlight: 1
+  news2: 
+
+- title: "Analytical, Symbolic and First-Order Reasoning within Neural Architectures"
+  image: rock.png
+  description: We show that, although shallow heuristics are used extensively by BERT during NLI, certain kinds of symbolic reasoning also arise in BERT. Some types of reasoning, such as spatial reasoning remain beyond it.
+  authors: S Ryb, M van Schijndel
+  link:
+    url: https://vansky.github.io/assets/pdf/ryb_vanschijndel-2021-cstfrs.pdf
+    display: Proc. CSTFRS (2021)
+  highlight: 0
+  news2: 
+
+- title: "fMRI reveals language-specific predictive coding during naturalistic sentence comprehension"
+  image: rock.png
+  description: 
+  authors: C Shain*, I Blank*, M van Schijndel, M van Schijndel, W Schuler, E Fedorenko
+  link:
+    url: http://dx.doi.org/10.1111/cogs.12988
+    display: Neuropsychologia, 138: 107307 (2020)
+  highlight: 0
+  news2: 
+
+- title: "Discourse structure interacts with reference but not syntax in neural language models"
+  image: rock.png
+  description: Transformers encode implicit causality verb biases but fail to use that knowledge to make correct predictions. Validates Hartshorne’s theory that IC is learnable from language sequences, but suggests that the language modeling objective prevents models from using this knowledge.
+  authors: F Davis, M van Schijndel
+  link:
+    url: https://aclanthology.org/2020.conll-1.32.pdf
+    display: Proc. CoNLL (2020)
+  highlight: 0
+  news2: 
+
+- title: "Filler-gaps that neural networks fail to generalize"
+  image: rock.png
+  description: Neural networks encode abstract filler-gap existence but do not learn more abstract clusterings over kinds of filler-gaps. Raises questions about the depth of abstraction needed to process text sequences.
+  authors: D Bhattacharya, M van Schijndel
+  link:
+    url: https://aclanthology.org/2020.conll-1.39.pdf
+    display: Proc. CoNLL (2020)
+  highlight: 0
+  news2: 
+
+- title: "Recurrent Neural Network Language Models Always Learn English-Like Relative Clause Attachment"
+  image: rock.png
+  description: Language models make good English-like predictions... even when processing other languages! This paper focuses on syntactic attachment, highlighting the mismatch between production statistics (present in training data) and comprehension statistics (which is what we actually want these models to encode).
+  authors: F Davis, M van Schijndel
+  link:
+    url: https://aclanthology.org/2020.acl-main.179.pdf
+    display: Proc. ACL (2020)
+  highlight: 1
+  news2: 
