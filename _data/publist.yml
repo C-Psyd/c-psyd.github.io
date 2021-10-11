@@ -24,7 +24,7 @@
   authors: F Davis, M van Schijndel
   link:
     url: https://aclanthology.org/2021.acl-long.93.pdf
-    display: Proc. ACL (2021)
+    display: Proc. ACL-IJCNLP (2021)
   highlight: 1
   news2: 
 
@@ -34,7 +34,7 @@
   authors: M Wilber, W Timkey, M van Schijndel
   link:
     url: https://aclanthology.org/2021.findings-acl.298.pdf
-    display: Findings of ACL (2021)
+    display: Findings of ACL-IJCNLP (2021)
   highlight: 1
   news2: 
 
@@ -86,4 +86,34 @@
     url: https://aclanthology.org/2020.acl-main.179.pdf
     display: Proc. ACL (2020)
   highlight: 1
+  news2: 
+
+- title: "Quantity doesn't buy quality syntax with neural language models"
+  image: rock.png
+  description: NLP practitioners have observed that training on bigger models on more data produces higher performance. This paper demonstrates that, although task performance may improve at scale, the quality of syntactic performance plateaus (at a relatively modest level) after relatively small amounts of data. We extrapolate our findings to show that it is infeasible to simply attempt to brute force language by scaling up models or data.
+  authors: M van Schijndel, A Mueller, T Linzen
+  link:
+    url: https://aclanthology.org/D19-1592.pdf
+    display: Proc. EMNLP-IJCNLP (2019)
+  highlight: 0
+  news2: 
+
+- title: "Using Priming to Uncover the Organization of Syntactic Representations in Neural Language Models"
+  image: rock.png
+  description: 
+  authors: G Prasad, M van Schijndel, T Linzen
+  link:
+    url: https://aclanthology.org/K19-1007.pdf
+    display: Proc. CoNLL (2019)
+  highlight: 0
+  news2: 
+
+- title: "Can Entropy Explain Successor Surprisal Effects in Reading?"
+  image: rock.png
+  description: 
+  authors: M van Schijndel, T Linzen
+  link:
+    url: https://aclanthology.org/W19-0101.pdf
+    display: Proc. SCiL (2019)
+  highlight: 0
   news2: 
