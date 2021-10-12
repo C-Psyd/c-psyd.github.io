@@ -9,21 +9,21 @@
 #  education4:
 
 - name: Debasmita Bhattacharya
-  photo: rock.jpg
+  photo: beach.svg
   info: MEng Student, started 2021
   email: db758@cornell.edu
   number_educ: 1
   education1: code-switching, bias and fairness, syntax and semantics
 
 - name: Reetu Parikh
-  photo: rock.jpg
+  photo: beach.svg
   info: BS Student, started 2021
   email: 
   number_educ: 1
   education1: syntactic ambiguity
 
 - name: William Timkey
-  photo: rock.jpg
+  photo: beach.svg
   info: Post-Bac Researcher, started 2020
   email: wpt25@cornell.edu
   number_educ: 1
