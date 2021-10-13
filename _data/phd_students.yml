@@ -8,7 +8,7 @@
 #  education3:
 #  education4:
 
-- name: Katherine Blake
+- name: <a href="https://conf.ling.cornell.edu/katherineblake/">Katherine Blake</a>
   photo: beach.svg
   info: PhD Student, started 2017
   email: kmb382@cornell.edu
@@ -29,7 +29,7 @@
   number_educ: 1
   education1: syntax, language change, computational linguistics
 
-- name: Forrest Davis
+- name: <a href="https://conf.ling.cornell.edu/forrestdavis/">Forrest Davis</a>
   photo: beach.svg
   info: PhD Student, started 2017
   email: fd252@cornell.edu
@@ -50,7 +50,7 @@
   number_educ: 1
   education1: computational psycholinguistics, Chinese linguistics
 
-- name: Joseph Rhyne
+- name: <a href="https://overtherhyne.github.io/">Joseph Rhyne</a>
   photo: beach.svg
   info: PhD Student, started 2020
   email: jtr92@cornell.edu
