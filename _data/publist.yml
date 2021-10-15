@@ -19,7 +19,7 @@
   news2: 
 
 - title: "Uncovering Constraint-Based Behavior in Neural Models via Targeted Fine-Tuning"
-  image: rock.png
+  image: davis_vs-2021-acl-thumb.png
   description: We show that linguistic knowledge in language models can be modeled as constraints. Thus, some linguistic representations can prevent other learned linguistic knowledge from surfacing. We show how to fix this, but more generally we outline a framework for thinking about language representations in neural networks.
   authors: F Davis, M van Schijndel
   link:
@@ -29,7 +29,7 @@
   news2: 
 
 - title: "To Point or Not to Point: Understanding How Abstractive Summarizers Paraphrase Text"
-  image: rock.png
+  image: wilber_etal-2021-findings-thumb.png
   description: We explore the abstractive capabilities of automatic summarization models. We show that abstractive summarization is extremely shallow at present, often simply emulating extractive summarization.
   authors: M Wilber, W Timkey, M van Schijndel
   link:
@@ -79,7 +79,7 @@
   news2: 
 
 - title: "Recurrent Neural Network Language Models Always Learn English-Like Relative Clause Attachment"
-  image: rock.png
+  image: davis_vs-2020-acl-thumb.png
   description: Language models make good English-like predictions... even when processing other languages! This paper focuses on syntactic attachment, highlighting the mismatch between production statistics (present in training data) and comprehension statistics (which is what we actually want these models to encode).
   authors: F Davis, M van Schijndel
   link:
