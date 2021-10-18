@@ -9,14 +9,14 @@
 #  education4:
 
 - name: <a href="https://conf.ling.cornell.edu/katherineblake/">Katherine Blake</a>
-  photo: beach.svg
+  photo: katie_blake.png
   info: PhD Student, started 2017
   email: kmb382@cornell.edu
   number_educ: 1
   education1: laboratory phonology, phonetics/phonology interface, computational methods
 
 - name: Anna Choi
-  photo: beach.svg
+  photo: anna_choi.jpg
   info: PhD Student, started 2021
   email: sc2359@cornell.edu
   number_educ: 1
@@ -30,42 +30,42 @@
   education1: syntax, language change, computational linguistics
 
 - name: <a href="https://conf.ling.cornell.edu/forrestdavis/">Forrest Davis</a>
-  photo: beach.svg
+  photo: forrest_davis.jpg
   info: PhD Student, started 2017
   email: fd252@cornell.edu
   number_educ: 1
   education1: discourse, event representations, psycholinguistics
 
 - name: Kaelyn Lamp
-  photo: beach.svg
+  photo: kaelyn_lamp.jpg
   info: PhD Student, started 2018
   email: kjl227@cornell.edu
   number_educ: 1
   education1: phonetics, computational semantics, Bayesian statistics
 
 - name: Cindy Qin
-  photo: beach.svg
+  photo: cindy_qin.jpg
   info: PhD Student, started 2020
   email: cq82@cornell.edu
   number_educ: 1
   education1: computational psycholinguistics, Chinese linguistics
 
 - name: <a href="https://overtherhyne.github.io/">Joseph Rhyne</a>
-  photo: beach.svg
+  photo: joseph_rhyne.jpg
   info: PhD Student, started 2020
   email: jtr92@cornell.edu
   number_educ: 1
   education1: computational historical linguistics, modeling language change
 
 - name: John Starr
-  photo: beach.svg
+  photo: john_starr.jpg
   info: PhD Student, started 2020
   email: jrs673@cornell.edu
   number_educ: 1
   education1: computational linguistics, poetry, psycholinguistics
 
 - name: Nianpo Su
-  photo: beach.svg
+  photo: nianpo_su.jpg
   info: PhD Student, started 2021
   email: ns674@cornell.edu
   number_educ: 1
