@@ -13,7 +13,7 @@ We are always looking for motivated new group members!
 You will help discover how the human mind processes language, how it makes predictions using incomplete information, and how language operates at scale. You will work at the frontier of psycholinguistics and natural language processing to push both fields forward. You will develop skills with programming, human experimentation, data analysis, and statistics.  
 
 ### Applications for Cornell PhD admission
-If you are interested in applying to Cornell to work with us, **please don't email me to ask if you should apply**. Just [apply to Cornell linguistics](https://linguistics.cornell.edu/graduate#admissions:) and state your desire to work in C.Psyd in that application. I get several emails each day asking if people should apply and I am unable to respond to them all. If you are interested in what we do, and you have a background in linguistics, cognitive science, or computer science, you should apply!  
+If you are interested in applying to Cornell to work with us, **please don't email me to ask if you should apply**. I get several emails each day asking if people should apply and I am unable to respond to them all. If you are interested in what we do, and you have a background in linguistics, cognitive science, or computer science, you should [apply to Cornell linguistics](https://linguistics.cornell.edu/graduate#admissions:) and state your desire to join C.Psyd in that application!  
 
 [Apply to Cornell linguistics here](https://linguistics.cornell.edu/graduate#admissions:)  
 
