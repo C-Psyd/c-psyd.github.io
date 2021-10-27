@@ -8,7 +8,9 @@ permalink: /schedule/
 
 # Schedule
 
-C.Psyd meetings consist of paper presentations, project workshopping, invited speakers, brainstorming sessions, etc. The format frequently changes between terms. If you'd like to join C.Psyd meetings, please send me an email.
+C.Psyd meetings consist of paper presentations, project workshopping, invited speakers, brainstorming sessions, etc. The format frequently changes between terms. If you'd like to join C.Psyd meetings, please send me an email.  
+
+[Current Schedule](https://docs.google.com/spreadsheets/d/12eeRD69kSOE5wQmy0gqXy0fUu4-fz6qRY9a0OcBFiVI/edit?usp=sharing)
 
 # Invited Speakers
 
