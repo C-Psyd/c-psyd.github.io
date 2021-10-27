@@ -29,3 +29,7 @@ If you are interested in joining as a postdoc or an affiliated research assistan
 
 ### Cornell students looking to join C.Psyd
 If you are already a student at Cornell University, feel free to send me an email to describe your background and express your interest. Most likely, I will invite you to sit in on the C.Psyd lab meetings to help you develop project ideas. You should also consider taking Computational Linguistics I (LING 4424/6424), [Computational Linguistics II (LING 4434/6434)](https://vansky.github.io/2020-cl2.html), or the computational linguistics seminars that are regularly offered through linguistics ([example](https://vansky.github.io/2021-compsem.html)). You may also be interested in the [other NLP courses at Cornell](https://nlp.cornell.edu/courses/).
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/fall_falls-ty_finck.jpg" class="img-responsive" width="80%" style="float: center" />  
+Photo by <a href="https://unsplash.com/@finck?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ty Finck</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
