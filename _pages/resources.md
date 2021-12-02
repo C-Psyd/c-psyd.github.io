@@ -7,6 +7,8 @@ permalink: /resources/
 
 # C.Psyd Resources
 
+[Lab handbook](https://github.com/vansky/C.Psyd-Handbook)
+
 ### Tools
 * [LSTM toolkit that can estimate incremental processing difficulty and adapt to new contexts](https://github.com/vansky/neural-complexity)  
 [van Schijndel and Linzen (2018) "A Neural Model of Adaptation in Reading"](http://aclweb.org/anthology/D18-1499)
