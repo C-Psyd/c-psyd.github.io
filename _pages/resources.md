@@ -7,7 +7,7 @@ permalink: /resources/
 
 # C.Psyd Resources
 
-[Lab handbook](https://github.com/vansky/C.Psyd-Handbook)
+### [Lab handbook](https://github.com/vansky/C.Psyd-Handbook)
 
 ### Tools
 * [LSTM toolkit that can estimate incremental processing difficulty and adapt to new contexts](https://github.com/vansky/neural-complexity)  
