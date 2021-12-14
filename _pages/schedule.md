@@ -20,7 +20,8 @@ C.Psyd meetings consist of paper presentations, project workshopping, invited sp
 
 **2021**  
 * **Ariel James** (Macalester College)
-: _TBA_  
+: _Capturing and explaining individual differences in language processing: Triumphs and Challenges_
+: Large inter-individual variability in experimental effects can be an exciting discovery, a nuisance to explain, or some combination of the two. In this talk, I will talk about my approach to the study of individual differences in language processing. As an illustration, I will provide an overview of a study that I completed with my colleagues (James et al., 2018) in which we replicated three major syntactic phenomena in the psycholinguistic literature: use of verb distributional statistics, difficulty of object- versus subject-extracted relative clauses, and resolution of relative clause attachment ambiguities. We examined whether any individual differences in these phenomena could be predicted by language experience or more general cognitive abilities. We found correlations between individual differences and offline, but not online, syntactic phenomena. I will discuss these findings in the context of Cronbach's "two disciplines" problem of combining experimental and correlational approaches, and describe my in-progress work to explore these problems and hopefully find some solutions.
 
 * **Allyson Ettinger** (University of Chicago)
 : _"Understanding" and prediction: Controlled examinations of meaning sensitivity in pre-trained models_
