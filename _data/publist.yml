@@ -88,6 +88,16 @@
   highlight: 0
   news2: 
 
+- title: "Interaction with context during recurrent neural network sentence processing"
+  image: rock.png
+  description: Using only language statistics, neural networks can learn some pragmatic constraints to modulate garden path effects.
+  authors: F Davis, M van Schijndel
+  link:
+    url: https://cognitivesciencesociety.org/cogsci20/papers/0672/0672.pdf
+    display: Proc. CogSci (2020)
+  highlight: 0
+  news2: 
+
 - title: "Recurrent Neural Network Language Models Always Learn English-Like Relative Clause Attachment"
   image: davis_vs-2020-acl-thumb.png
   description: Language models make good English-like predictions... even when processing other languages! This paper focuses on syntactic attachment, highlighting the mismatch between production statistics (present in training data) and comprehension statistics (which is what we actually want these models to encode).

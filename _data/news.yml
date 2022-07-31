@@ -1,5 +1,3 @@
-
-
 - date: 26. Aug 2021
   headline: <a href="https://vansky.github.io/assets/pdf/timkey_vanschijndel-2021-emnlp.pdf">Timkey and van Schijndel (2021; EMNLP)</a> shows that cosine similarity doesn't work for Transformer models. We introduce a simple method to correct the issue without retraining.
 
