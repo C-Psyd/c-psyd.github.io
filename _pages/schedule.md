@@ -15,6 +15,30 @@ C.Psyd meetings consist of paper presentations, project workshopping, invited sp
 # Invited Speakers
 
 **2022**  
+* **Cory Shain** (MIT)
+: _Incremental Story Comprehension in the Human Brain_
+: A major goal of psycholinguistics is to understand the mental algorithms
+ that enable human language comprehension. But the component processes 
+are challenging to isolate experimentally. As a result, researchers are 
+increasingly complementing controlled experiments by evaluating 
+word-by-word predictors from computational cognitive models against data
+ from humans processing naturalistic language input. In this talk, I
+ will present two such studies evaluating theoretical predictions of 
+language processing demand against brain activity during naturalistic 
+story listening in a large fMRI cohort (n=78). These studies address 
+three core outstanding questions: (1) Does sentence comprehension 
+involve rich syntactic structure building? (2) Is structural integration
+ (in working memory) dissociable from prediction? (3) Are the neural 
+mechanisms that support prediction and working memory for language 
+shared with other domains of cognition? Based on results from rigorous 
+model comparisons, I will argue that the answers are respectively yes, 
+yes, and no: the evidence supports rich syntactic structure processing 
+during passive story listening, robust dissociation of structural 
+integration from predictive processing, and a primarily 
+language-selective neural locus for these effects, with no evidence that
+ domain-general neural circuits are recruited for either prediction or 
+structural integration.<br><br>
+
 * **Rachael Elizabeth Weissler** (University of Oregon)
 : _Leveraging African American English Knowledge: Cognition and Multidialectal Processing_
 : In order to better understand how American listeners cognitively interact with Black and White voices, I engage theories of language variation and social cognition from the sociolinguistic and psycholinguistic perspectives. Previous research has shown that this kind of hierarchical treatment of language varieties leads to negative perceptions of non-standard languages, which in turn makes them stigmatized, and ultimately perpetuates dialect discrimination. This kind of discrimination results in the mistreatment of users of non-standard varieties, which negatively affects the way those speakers can move through the U.S. context (Rickford 1999, Eckert and Rickford 2001, Schilling 2004, Rickford and King 2016). This research investigates how listeners alter their linguistic expectations when hearing Standardized American English (SdAE) and African American English (AAE) through two Electroencephalography (EEG) experiments. I ask whether listeners have specific knowledge of the dialect that is not their own, or whether listeners more generally reduce expectations across the board when listening to a dialect or variant that they themselves do not speak. Experimental sentences were constructed in order to reflect a variant that is grammatical in SdAE, that is grammatical uniquely to AAE, and a grammatical variant that is ungrammatical in all varieties of English. Experiment 1 includes stimuli from a single Black man employing both SdAE and AAE speech. Experiment 2 includes the same AAE stimuli from that speaker, as well as stimuli from one SdAE speaker, both male from the Midwest. The results reflect a nuanced combination of both perspectives: Listeners show differential processing depending on the guise used by the Black man, and also show processing results in alignment with SdAE grammar in Experiment 2 only. These studies indicate that a speaker’s identity and language variety may both be taken into account during processing. They also indicate the potential that listeners aren’t interacting with or processing SdAE when they interact with it coming from an African American person; though standard features may be evoked, the speaker still “Sounds Black.” Through analysis of American Englishes, this work contributes to further understanding of how social information interfaces with online processing, and expectations that may be formed depending on the perceived identity of a voice. Future work seeks to ask how listeners of varied linguistic knowledges of AAE specifically process this syntactic variation, and also disentangling grammatical processing of AAE versus perceiving “Sounding Black.”
@@ -22,7 +46,7 @@ C.Psyd meetings consist of paper presentations, project workshopping, invited sp
 **2021**  
 * **Ariel James** (Macalester College)
 : _Capturing and explaining individual differences in language processing: Triumphs and Challenges_
-: Large inter-individual variability in experimental effects can be an exciting discovery, a nuisance to explain, or some combination of the two. In this talk, I will talk about my approach to the study of individual differences in language processing. As an illustration, I will provide an overview of a study that I completed with my colleagues (James et al., 2018) in which we replicated three major syntactic phenomena in the psycholinguistic literature: use of verb distributional statistics, difficulty of object- versus subject-extracted relative clauses, and resolution of relative clause attachment ambiguities. We examined whether any individual differences in these phenomena could be predicted by language experience or more general cognitive abilities. We found correlations between individual differences and offline, but not online, syntactic phenomena. I will discuss these findings in the context of Cronbach's "two disciplines" problem of combining experimental and correlational approaches, and describe my in-progress work to explore these problems and hopefully find some solutions.
+: Large inter-individual variability in experimental effects can be an exciting discovery, a nuisance to explain, or some combination of the two. In this talk, I will talk about my approach to the study of individual differences in language processing. As an illustration, I will provide an overview of a study that I completed with my colleagues (James et al., 2018) in which we replicated three major syntactic phenomena in the psycholinguistic literature: use of verb distributional statistics, difficulty of object- versus subject-extracted relative clauses, and resolution of relative clause attachment ambiguities. We examined whether any individual differences in these phenomena could be predicted by language experience or more general cognitive abilities. We found correlations between individual differences and offline, but not online, syntactic phenomena. I will discuss these findings in the context of Cronbach's "two disciplines" problem of combining experimental and correlational approaches, and describe my in-progress work to explore these problems and hopefully find some solutions.<br><br>
 
 * **Allyson Ettinger** (University of Chicago)
 : _"Understanding" and prediction: Controlled examinations of meaning sensitivity in pre-trained models_
