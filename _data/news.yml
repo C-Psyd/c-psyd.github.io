@@ -1,3 +1,27 @@
+- date: 2. Jul 2022
+  headline: Congratulations to <a href="https://conf.ling.cornell.edu/forrestdavis/">Dr. Forrest Davis</a> for his successful PhD defense! He's off to amaze the world in his new position at MIT Linguistics.
+
+- date: 15. Apr 2022
+  headline: Congratulations to <a href="https://conf.ling.cornell.edu/katherineblake/">Dr. Katie Blake</a> for her successful PhD defense! She's going to do great in her new position at Amazon.
+
+- date: 25. Mar 2022
+  headline: <a href="https://johnstarr-ling.github.io/">John Starr</a> presented his mind rhyme work at HSP 2022
+
+- date: 22. Feb 2022
+  headline: <a href="https://johnstarr-ling.github.io/">John Starr</a> gave an invited talk at UC Berkeley's Phorum about his initial findings on Mind Rhymes, a phenomenon where a rhyme expectation is violated to humorous effect.
+
+- date: 1. Feb 2022
+  headline: Marten gave an invited talk at UC Irvine on methods for applying psycholinguistic priming to neural networks.
+
+- date: 25. Jan 2022
+  headline: Marten gave an invited talk at Dongguk University on methods for applying psycholinguistic priming to neural networks.
+
+- date: 3. Dec 2022
+  headline: Marten gave an invited talk at University of Chicago on the weaknesses of statistical learning methods for inferring linguistic representations and processing.
+
+- date: 15. Oct 2022
+  headline: Marten gave an invited talk at Georgia Tech on the weaknesses of statistical learning methods for inferring linguistic representations and processing.
+
 - date: 26. Aug 2021
   headline: <a href="https://vansky.github.io/assets/pdf/timkey_vanschijndel-2021-emnlp.pdf">Timkey and van Schijndel (2021; EMNLP)</a> shows that cosine similarity doesn't work for Transformer models. We introduce a simple method to correct the issue without retraining.
 
