@@ -8,6 +8,13 @@
 #  education3:
 #  education4:
 
+- name: Cassidy Langenfeld
+  photo: beach.svg
+  info: BA Student, started 2022
+  email: 
+  number_educ: 1
+  education1: language acquisition, programming languages
+
 - name: Vinh Nguyen
   photo: beach.svg
   info: BS Student, started 2022
@@ -21,6 +28,13 @@
   email: 
   number_educ: 1
   education1: syntactic ambiguity
+
+- name: Andrew Xu
+  photo: beach.svg
+  info: BS Student, started 2022
+  email: 
+  number_educ: 1
+  education1: code-switching
 
 - name: Fangcong Yin
   photo: beach.svg
