@@ -23,8 +23,6 @@ If you are interested in joining as a postdoc or an affiliated research assistan
 
 [Klarman Postdoctoral Fellowship](https://as.cornell.edu/research/klarman-fellowships)  
 
-[Cornell Presidential Postdoctoral Fellowship](https://research.cornell.edu/content/fellowship-essentials)  
-
 [Assistant Research Professorship, Center for Data Science for Enterprise and Society](https://datasciencecenter.cornell.edu/professorship-program/)  
 
 ### Cornell students looking to join C.Psyd
