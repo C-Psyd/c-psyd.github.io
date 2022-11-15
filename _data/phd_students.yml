@@ -15,6 +15,13 @@
   number_educ: 1
   education1: dialect, accent, AI ethics
 
+- name: Chloe Kwon
+  photo: chloe_kwon.jpg
+  info: PhD Student, started 2019
+  email: dk837@cornell.edu
+  number_educ: 1
+  education1: phonetics, computational linguistics, prosody
+
 - name: <a href="https://kaelyn-lamp.github.io/">Kaelyn Lamp</a>
   photo: kaelyn_lamp.jpg
   info: PhD Student, started 2018
