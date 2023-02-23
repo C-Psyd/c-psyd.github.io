@@ -15,6 +15,10 @@ C.Psyd meetings consist of paper presentations, project workshopping, invited sp
 # Invited Speakers
 
 **2022**  
+* **Isabel Papadimitriou** (Stanford)
+: _What can we learn about language from language models?_
+: The development of successful language models has provided us with an exciting test bed: we have learners that can learn language from data, and we can watch them do it. In this talk I'll go over two sets of experiments that examine language representation and learning in language models, and discuss what we can learn from them. Firstly, I'll go over experiments that use transformers to approach a cognitive question: what are the inductive biases that help a learner in acquiring human language from data? To do this, we set up an experimental test bed where we create learners with different structural biases (nesting parentheses, crossing dependencies, regular patterns) and test their ability to transfer this knowledge to English. Secondly, I'll look at subjecthood (the property of being the subject or the object of a sentence) in language model embedding spaces. By probing the embedding space, we show how a discrete feature like subjecthood can be encoded in a continuous space, affected but not fully determined by prototype effects, and also how these properties come into play with a feature being universally shared among many languages. Insofar as computational models of cognition act as hypothesis generators for inspiring and guiding our research into understanding human language, language models are a very exciting tool to work with and understand.<br><br>
+
 * **Cory Shain** (MIT)
 : _Incremental Story Comprehension in the Human Brain_
 : A major goal of psycholinguistics is to understand the mental algorithms
