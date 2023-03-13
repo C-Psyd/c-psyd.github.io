@@ -43,7 +43,7 @@
   description: We show that Transformer models consistently develop rogue dimensions that operate at bizarrely inflated scales and track relatively uninteresting phenomena (e.g., time since last punctuation mark). The inflated scale distorts similarity estimates and makes cosine a poor measure of similarity. We introduce a very simple method to correct for the issue that retains all information in the model and requires no retraining.
   authors: W Timkey, M van Schijndel
   link:
-    url: https://vansky.github.io/assets/pdf/timkey_vanschijndel-2021-emnlp.pdf
+    url: https://aclanthology.org/2021.emnlp-main.372.pdf
     display: Proc. EMNLP (2021)
   highlight: 1
   news2: 
@@ -73,7 +73,7 @@
   description: We show that, although shallow heuristics are used extensively by BERT during NLI, certain kinds of symbolic reasoning also arise in BERT. Some types of reasoning, such as spatial reasoning remain beyond it.
   authors: S Ryb, M van Schijndel
   link:
-    url: https://vansky.github.io/assets/pdf/ryb_vanschijndel-2021-cstfrs.pdf
+    url: https://vansky.github.io/assets/pdf/timkey_vanschijndel-2021-emnlp.pdf
     display: Proc. CSTFRS (2021)
   highlight: 0
   news2: 
