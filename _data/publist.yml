@@ -73,7 +73,7 @@
   description: We show that, although shallow heuristics are used extensively by BERT during NLI, certain kinds of symbolic reasoning also arise in BERT. Some types of reasoning, such as spatial reasoning remain beyond it.
   authors: S Ryb, M van Schijndel
   link:
-    url: https://vansky.github.io/assets/pdf/timkey_vanschijndel-2021-emnlp.pdf
+    url: https://aclanthology.org/2021.cstfrs-1.7.pdf
     display: Proc. CSTFRS (2021)
   highlight: 0
   news2: 
