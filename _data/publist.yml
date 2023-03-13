@@ -1,3 +1,23 @@
+- title: "Discourse Context Predictability Effects in Hindi Word Order"
+  image: beach.png
+  description: We test the hypothesis that discourse predictability influences Hindi syntactic choice. We show that information status and discourse predictability both influence word order choices, especially for non-canonical object-fronted orders.
+  authors: S Ranjan, M van Schijndel, S Agarwal, R Rajkumar
+  link:
+    url: https://aclanthology.org/2022.emnlp-main.710.pdf
+    display: Proc. EMNLP (2022)
+  highlight: 0
+  news2: 
+
+- title: "Dual Mechanism Priming Effects in Hindi Word Order"
+  image: beach.png
+  description: We show that lexical priming and lexically-independent syntactic priming affect complementary sets of verb classes. By showing that different priming influences are separable from one another, our results support the hypothesis that multiple different cognitive mechanisms underlie priming.
+  authors: S Ranjan, M van Schijndel, S Agarwal, R Rajkumar
+  link:
+    url: https://aclanthology.org/2022.aacl-main.68.pdf
+    display: Proc. AACL (2022)
+  highlight: 0
+  news2: 
+
 - title: "Single-stage prediction models do not explain the magnitude of syntactic disambiguation difficulty"
   image: vsL-21.png
   description: We show that surprisal (or more generally, single-stage prediction models) can only explain the existence of garden path effects in reading times, not the magnitude of the effects themselves. Suggests the existence of explicit repair mechanisms are involved during garden path processing.
