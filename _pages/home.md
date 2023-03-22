@@ -22,13 +22,20 @@ We are a [linguistics](https://linguistics.cornell.edu) research group at [Corne
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/vsL-21.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/peer-logo.png" alt="PEER Workshop" href="https://peer-workshop.github.io/" /><br>
+            March 31, 2023 - C.Psyd co-organizes the second Workshop on Processing and Evaluating Event Representations (PEER)  
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/timkey_cosine_measures.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/vsL-21.png" alt="Surprisal doesn't predict RT effect sizes" /><br>
+            Surprisal doesn't predict reading time effect sizes (van Schijndel and Linzen, 2021)
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/davis_vs-20-conll.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/timkey_cosine_measures.png" alt="Cosine similarity doesn't work with Transformers" /><br>
+            Cosine similarity doesn't work with Transformers (Timkey and van Schijndel, 2021)
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/davis_vs-20-conll.png" alt="Surface training doesn't produce correct interactions in LMs" /><br>
+            Surface training doesn't produce correct interactions in LMs (Davis and van Schijndel, 2021)
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
