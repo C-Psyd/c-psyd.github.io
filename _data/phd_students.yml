@@ -29,6 +29,13 @@
   number_educ: 1
   education1: phonetics, computational semantics, Bayesian statistics
 
+- name: <a href="http://jam963.github.io/">Jacob Matthews</a>
+  photo: jacob_matthews.jpg
+  info: PhD Student
+  email: jam963@cornell.edu
+  number_educ: 1
+  education1: representational analysis, literary language
+
 - name: <a href="https://kihyo-park.github.io">Kihyo Park</a>
   photo: kihyo_park.jpg
   info: PhD Student
