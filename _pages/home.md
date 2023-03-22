@@ -22,20 +22,20 @@ We are a [linguistics](https://linguistics.cornell.edu) research group at [Corne
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/peer-logo.png" alt="PEER Workshop" href="https://peer-workshop.github.io/" /><br>
-            March 31, 2023 - C.Psyd co-organizes the second Workshop on Processing and Evaluating Event Representations (PEER)  
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/peer-logo.png" alt="PEER Workshop" /><br>
+            <b>March 31, 2023<br> - C.Psyd co-organizes the second <a href="https://peer-workshop.github.io/">Workshop on Processing and Evaluating Event Representations (PEER)</a>  
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/vsL-21.png" alt="Surprisal doesn't predict RT effect sizes" /><br>
-            Surprisal doesn't predict reading time effect sizes (van Schijndel and Linzen, 2021)
+            Surprisal doesn't predict reading time effect sizes <a href="https://vansky.github.io/assets/pdf/vanschijndel_linzen-2021-cogscij.pdf">(van Schijndel and Linzen, 2021)</a>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/timkey_cosine_measures.png" alt="Cosine similarity doesn't work with Transformers" /><br>
-            Cosine similarity doesn't work with Transformers (Timkey and van Schijndel, 2021)
+            Cosine similarity doesn't work with Transformers <a href="https://aclanthology.org/2021.emnlp-main.372.pdf">(Timkey and van Schijndel, 2021)</a>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/davis_vs-20-conll.png" alt="Surface training doesn't produce correct interactions in LMs" /><br>
-            Surface training doesn't produce correct interactions in LMs (Davis and van Schijndel, 2021)
+            Surface training doesn't produce correct interactions in LMs <a href="https://aclanthology.org/2021.acl-long.93.pdf">(Davis and van Schijndel, 2021)</a>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
