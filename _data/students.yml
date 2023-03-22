@@ -10,35 +10,35 @@
 
 - name: Cassidy Langenfeld
   photo: beach.svg
-  info: BA Student, started 2022
+  info: BA Student
   email: 
   number_educ: 1
   education1: language acquisition, programming languages
 
 - name: Vinh Nguyen
   photo: beach.svg
-  info: BS Student, started 2022
+  info: BS Student
   email: 
   number_educ: 1
   education1: code-switching
 
 - name: Reetu Parikh
   photo: beach.svg
-  info: BS Student, started 2021
+  info: BS Student
   email: 
   number_educ: 1
   education1: syntactic ambiguity
 
 - name: Andrew Xu
   photo: beach.svg
-  info: BS Student, started 2022
+  info: BS Student
   email: 
   number_educ: 1
   education1: code-switching
 
-- name: Fangcong Yin
-  photo: beach.svg
-  info: BS Student, started 2022
-  email: 
+- name: <a href="https://fangcong-yin-2.github.io/">Fangcong Yin</a>
+  photo: fangcong_yin.jpg
+  info: BS Student
+  email: fy95@cornell.edu
   number_educ: 1
   education1: summarization, evaluation

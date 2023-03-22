@@ -10,63 +10,63 @@
 
 - name: <a href="https://sites.google.com/cornell.edu/annasgchoi/home">Anna Choi</a>
   photo: anna_choi.jpg
-  info: PhD Student, started 2021
+  info: PhD Student
   email: sc2359@cornell.edu
   number_educ: 1
   education1: dialect, accent, AI ethics
 
 - name: Chloe Kwon
   photo: chloe_kwon.jpg
-  info: PhD Student, started 2019
+  info: PhD Student
   email: dk837@cornell.edu
   number_educ: 1
   education1: phonetics, computational linguistics, prosody
 
 - name: <a href="https://kaelyn-lamp.github.io/">Kaelyn Lamp</a>
   photo: kaelyn_lamp.jpg
-  info: PhD Student, started 2018
+  info: PhD Student
   email: kjl227@cornell.edu
   number_educ: 1
   education1: phonetics, computational semantics, Bayesian statistics
 
 - name: <a href="https://kihyo-park.github.io">Kihyo Park</a>
   photo: kihyo_park.jpg
-  info: PhD Student, started 2022
+  info: PhD Student
   email: kp467@cornell.edu
   number_educ: 1
   education1: computational psycholinguistics, sentence processing, experimental pragmatics
 
 - name: <a href="https://cindyqin10.github.io">Chuyu Qin</a>
   photo: cindy_qin.jpg
-  info: PhD Student, started 2020
+  info: PhD Student
   email: cq82@cornell.edu
   number_educ: 1
   education1: computational psycholinguistics, Chinese linguistics
 
 - name: <a href="https://overtherhyne.github.io/">Joseph Rhyne</a>
   photo: joseph_rhyne.jpg
-  info: PhD Student, started 2017
+  info: PhD Student
   email: jtr92@cornell.edu
   number_educ: 1
   education1: computational historical linguistics, modeling language change
 
 - name: <a href="https://johnstarr-ling.github.io">John Starr</a>
   photo: john_starr.jpg
-  info: PhD Student, started 2020
+  info: PhD Student<br>Advisors: Marten van Schijndel and Draga Zec
   email: jrs673@cornell.edu
   number_educ: 1
-  education1: computational linguistics, poetry, psycholinguistics
+  education1: psycholinguistics, phonology, computational linguistics
 
 - name: <a href="https://nianpo.github.io">Nianpo Su</a>
   photo: nianpo_su.jpg
-  info: PhD Student, started 2021
+  info: PhD Student
   email: ns674@cornell.edu
   number_educ: 1
   education1: language acquisition, syntax, psycholinguistics, language processing
 
 - name: Fengyue Zhao
   photo: lisa_zhao.jpg
-  info: PhD Student, started 2022
+  info: PhD Student
   email: fz227@cornell.edu
   number_educ: 1
   education1: computational linguistics, psycholinguistics, phonetics
