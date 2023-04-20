@@ -1,47 +1,53 @@
-- date: 9. Mar 2023
+- date: 3 April 2023
+  headline: Marten gave an invited talk at the University of Florida on the linking hypotheses between surprisal and human language processing.
+
+- date: 31 Mar 2023
+  headline: C.Psyd co-organized the second <a href="https://peer-workshop.github.io/">Workshop on Processing and Evaluating Event Representations (PEER)</a> with <a href="http://factslab.io/">FACTS.lab</a>.  
+
+- date: 9 Mar 2023
   headline: C.Psyders rocked HSP 2023 with 6 poster presentations.
 
-- date: 20. Jan 2023
+- date: 20 Jan 2023
   headline: Marten gave an invited talk at Duesseldorf University exploring the linking hypotheses between surprisal and human language processing.
 
-- date: 7. Dec 2023
+- date: 7 Dec 2023
   headline: Sidharth Ranjan presented his <a href="https://aclanthology.org/2022.emnlp-main.710.pdf">work</a> on discourse influences on Hindi word order at EMNLP.
 
-- date: 20. Nov 2023
+- date: 20 Nov 2023
   headline: Sidharth Ranjan presented his <a href="https://aclanthology.org/2022.aacl-main.68.pdf">work</a> on dual mechanism priming at AACL.
 
-- date: 2. Jul 2022
+- date: 2 Jul 2022
   headline: Congratulations to <a href="https://conf.ling.cornell.edu/forrestdavis/">Dr. Forrest Davis</a> for his successful PhD defense! He's off to amaze the world in his new position at MIT Linguistics.
 
-- date: 15. Apr 2022
+- date: 15 Apr 2022
   headline: Congratulations to <a href="https://conf.ling.cornell.edu/katherineblake/">Dr. Katie Blake</a> for her successful PhD defense! She's going to do great in her new position at Amazon.
 
-- date: 1. Apr 2022
+- date: 1 Apr 2022
   headline: C.Psyd hosted the first annual CNY workshop on computational cognitive models of meaning.
 
-- date: 25. Mar 2022
+- date: 25 Mar 2022
   headline: John Starr presented his mind rhyme work at HSP 2022.
 
-- date: 22. Feb 2022
+- date: 22 Feb 2022
   headline: John Starr gave an invited talk at UC Berkeley's Phorum about his initial findings on Mind Rhymes, a phenomenon where a rhyme expectation is violated to humorous effect.
 
-- date: 1. Feb 2022
+- date: 1 Feb 2022
   headline: Marten gave an invited talk at UC Irvine on methods for applying psycholinguistic priming to neural networks.
 
-- date: 25. Jan 2022
+- date: 25 Jan 2022
   headline: Marten gave an invited talk at Dongguk University on methods for applying psycholinguistic priming to neural networks.
 
-- date: 3. Dec 2021
+- date: 3 Dec 2021
   headline: Marten gave an invited talk at University of Chicago on the weaknesses of statistical learning methods for inferring linguistic representations and processing.
 
-- date: 15. Oct 2021
+- date: 15 Oct 2021
   headline: Marten gave an invited talk at Georgia Tech on the weaknesses of statistical learning methods for inferring linguistic representations and processing.
 
-- date: 26. Aug 2021
+- date: 26 Aug 2021
   headline: <a href="https://vansky.github.io/assets/pdf/timkey_vanschijndel-2021-emnlp.pdf">Timkey and van Schijndel (2021; EMNLP)</a> shows that cosine similarity doesn't work for Transformer models. We introduce a simple method to correct the issue without retraining.
 
-- date: 25. June 2021
+- date: 25 June 2021
   headline: <a href="https://vansky.github.io/assets/pdf/vanschijndel_linzen-2021-cogscij.pdf">Paper published in Cognitive Science!</a><br>Surprisal can only explain the existence of garden path effects in reading times, not the magnitude of the effects themselves.
 
-- date: 10. May 2021
+- date: 10 May 2021
   headline: 2 papers accepted at ACL and ACL Findings:<br>1) <a href="https://aclanthology.org/2021.acl-long.93/">Davis and van Schijndel (2021)</a> shows that linguistic knowledge in language models can be modeled as constraints.<br>2) <a href="https://aclanthology.org/2021.findings-acl.298/">Wilber et al. (2021)</a> shows that abstractive summarization is extremely shallow at present, often simply emulating extractive summarization.
