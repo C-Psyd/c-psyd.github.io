@@ -10,7 +10,7 @@
 
 - name: Cassidy Langenfeld
   photo: beach.svg
-  info: BA Student
+  info: MS Student
   email: 
   number_educ: 1
   education1: language acquisition, programming languages
@@ -22,19 +22,12 @@
   number_educ: 1
   education1: code-switching
 
-- name: Reetu Parikh
+- name: Daniela Ramos Ojeda
   photo: beach.svg
   info: BS Student
   email: 
   number_educ: 1
-  education1: syntactic ambiguity
-
-- name: Andrew Xu
-  photo: beach.svg
-  info: BS Student
-  email: 
-  number_educ: 1
-  education1: code-switching
+  education1: machine learning, indigenous language revitalization
 
 - name: <a href="https://fangcong-yin-2.github.io/">Fangcong Yin</a>
   photo: fangcong_yin.jpg
