@@ -16,7 +16,8 @@ C.Psyd meetings consist of paper presentations, project workshopping, invited sp
 
 **2023**
 * **Nan-Jiang Jiang** (The Ohio State University)
-: _TBD_<br><br>
+:   _Understanding and Predicting Human Label Variation in Natural Language Inference through Explanations_
+: Human label variation (Plank, 2022), or annotation disagreement, exists in many natural language processing (NLP) tasks.To be robust and trusted, NLP models need to identify such variation and be able to explain it. To this end, we created the first ecologically valid explanation dataset with diverse reasoning, LiveNLI. LiveNLI contains annotators’ highlights and free-text explanations for the label(s) of their choice for 122 English Natural Language Inference items, each with at least 10 annotations. We used its explanations for chain-of-thought prompting, and found there is still room for improvement in GPT-3’s ability to predict label distribution with in-context learning.<br><br>
 
 * **Julia Mendelsohn** (University of Michigan)
 : _Computational analysis of nuanced political rhetoric_
