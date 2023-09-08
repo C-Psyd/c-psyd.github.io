@@ -19,7 +19,8 @@ C.Psyd meetings consist of paper presentations, project workshopping, invited sp
 :   _TBD_<br><br>
 
 * **Kanishka Misra** (UT Austin)
-:   _TBD_<br><br>
+:   _Analyzing Robust Conceptual Knowledge and Property Inheritance in Language Models_
+: A characteristic feature of human semantic cognition is the ability to not only store and retrieve the properties of concepts observed through experience, but to also facilitate the inheritance of properties (e.g., can breathe) from superordinate concepts (animal) to their subordinates (dog)---i.e. demonstrate property inheritance. In this work, I will present COMPS, a collection of minimal pair sentences that jointly tests pre-trained language models (PLMs) on their ability to attribute properties to concepts and their ability to demonstrate property inheritance behavior. Analyses of 31 different PLMs on COMPS reveal that they can easily distinguish between concepts on the basis of a property when they are trivially different but find it relatively difficult when concepts are related on the basis of explicit knowledge representations. Further analyses find that PLMs can show behaviors suggesting successful property inheritance in simple contexts, but fail in the presence of distracting information, which decreases the performance of many models, sometimes even below chance. This lack of robustness in demonstrating simple reasoning raises important questions about PLMs’ capacity to make correct inferences even when they appear to possess the prerequisite knowledge. I will also discuss preliminary results on a potential few-shot setting of this task, complemented with additional controls for positional heuristics.<br><br>
 
 * **Nan-Jiang Jiang** (The Ohio State University)
 :   _Understanding and Predicting Human Label Variation in Natural Language Inference through Explanations_
