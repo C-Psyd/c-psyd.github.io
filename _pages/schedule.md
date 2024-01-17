@@ -15,8 +15,9 @@ C.Psyd meetings consist of paper presentations, project workshopping, invited sp
 # Invited Speakers
 
 **2023**
-* **Nora Hollenstein** (University of Copenhagen)
-:   _TBD_<br><br>
+* **Grusha Prasad** (Colgate University)
+:   _Generating and testing *quantitative* predictions of human language processing_
+: Decades of psycholinguistic research has focused on evaluating theories of human sentence processing by testing qualitative behavioral predictions. The advent of broad-coverage computational models of human sentence processing has made it possible to move beyond these qualitative predictions and derive quantitative predictions from theories. In the first part of this talk, I discuss the importance of large-scale datasets for testing such quantitative predictions, and present data from one such large-scale dataset: SAP Benchmark (Huang et al, 2023). These data suggest that word predictability alone, as estimated from neural network language models trained on uncurated datasets from the internet, cannot explain syntactic disambiguation difficulty. New modeling work suggests that this conclusion holds for models trained on datasets curated to be more developmentally plausible. In the second part of this talk, I discuss the factors that can impact our empirical estimates of processing difficulty. Focusing in on the web-based platform used for data collection, I present some data which demonstrates that the quantitative, and in some cases qualitative, pattern of results differs between participants recruited via Prolific vs. Amazon’s Mechanical Turk. This suggests that web-based platform choice could be an important variable to include in meta-analyses and a factor to consider future experimental design.<br><br>
 
 * **Kanishka Misra** (UT Austin)
 :   _Analyzing Robust Conceptual Knowledge and Property Inheritance in Language Models_
