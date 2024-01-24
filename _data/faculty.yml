@@ -1,8 +1,14 @@
 - name: <a href="https://vansky.github.io/">Marten van Schijndel</a>
   photo: marten.jpg
-  info: Assistant Professor
+  info: Assistant Professor, C.Psyd PI
   email: mv443@cornell.edu
   number_educ: 2
   education1: PhD OSU with <a href="https://www.asc.ohio-state.edu/schuler.77/">William Schuler</a>
   education2: Postdoc JHU with <a href="https://tallinzen.net/">Tal Linzen</a>
 
+- name: <a href="https://www.unsojo.com/">Eun Seo (Unso) Jo</a>
+  photo: unso_jo.jpg
+  info: Research Assistant Professor
+  email: eunseojo@gmail.com
+  number_educ: 1
+  education1: PhD Stanford with <a href="https://economics.stanford.edu/people/gavin-wright">Gavin Wright</a> and <a href="https://history.stanford.edu/people/zephyr-frank">Zephyr Frank</a>
