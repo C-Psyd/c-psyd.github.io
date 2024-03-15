@@ -14,6 +14,17 @@ C.Psyd meetings consist of paper presentations, project workshopping, invited sp
 
 # Invited Speakers
 
+**2024**
+* **Leonie Weissweiler** (Princeton University)
+* _TBD_<br><br>
+
+* **Sanghee Kim** (University of Chicago)
+* _TBD_<br><br>
+
+* **Kate Stone** (University of Potsdam)
+: _Preventing illusions of plausibility in semantically implausible sentences: The role of time_
+: Rapidly integrating multiple streams of information during reading can create transitory conflicts. For example, the sentence “the cop that the thief chased” suggests an event that conflicts with our probabilistic knowledge about the usual thematic roles of cops and thieves. Probabilistic knowledge suggests that the verb “chased” is semantically implausible if thief is the agent and cop is the patient, and we would usually see this implausibility reflected by a large N400 brain potential. Instead, such constructions elicit small N400s, suggesting that readers misinterpret the sentence in line with probabilistic expectation (cop chases thief), referred to as a semantic illusion. Recently, there has been evidence to suggest that this temporary conflict can be resolved by delaying presentation of the verb. In this talk, I will present two ERP experiments where we test different ways of delaying the verb to determine how exactly the delay prevents the illusion, e.g. by providing extra processing time or extra information. The findings have implications for multiple computational and other accounts of the initial semantic illusion since most pre-date the delay effect finding. I will outline an approach to adapting one of these models (the Sentence Gestalt model; Rabovsky et al., 2018) to provide a mechanism for the illusion and the delay effect whereby information from different contextual cues settles over time into a representation that is consistent with both the literal sentence input and probabilistic knowledge.<br><br>
+
 **2023**
 * **Grusha Prasad** (Colgate University)
 :   _Generating and testing *quantitative* predictions of human language processing_
