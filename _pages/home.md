@@ -23,7 +23,7 @@ We are a [linguistics](https://linguistics.cornell.edu) research group at [Corne
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/peer-logo.png" alt="PEER Workshop" /><br>
-            <b>March 31, 2023</b> - C.Psyd co-organizes the second <a href="https://peer-workshop.github.io/">Workshop on Processing and Evaluating Event Representations (PEER)</a> with <a href="http://factslab.io/">FACTS.lab</a>.  
+            <b>March 29, 2024</b> - C.Psyd co-organized the third <a href="https://peer-workshop.github.io/">Workshop on Processing and Evaluating Event Representations (PEER)</a> with <a href="http://factslab.io/">FACTS.lab</a>.  
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/vsL-21.png" alt="Surprisal doesn't predict RT effect sizes" /><br>

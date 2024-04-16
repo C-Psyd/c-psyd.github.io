@@ -19,7 +19,8 @@ C.Psyd meetings consist of paper presentations, project workshopping, invited sp
 * _TBD_<br><br>
 
 * **Sanghee Kim** (University of Chicago)
-* _TBD_<br><br>
+: _Knowing what's important during language comprehension_
+: Be it a long congressional hearing, or a short casual conversation, one of the core aspects of language is that certain parts of an utterance are more central to the main point whereas other parts are less so. The current work focuses on this facet of language, the division of primary vs. secondary information -- or from a discourse perspective, the division of main vs. subordinate discourse information. I investigate the way this distinction is represented in working memory during language comprehension through a series of behavioral experiments. I identify cases where subordinate discourse information is less susceptible to interference in working memory (i.e., no number agreement attraction effect, and easier pronoun resolution), but also where it acts similarly to main discourse information. These results show that the working memory architecture is indeed sensitive to the main vs. subordinate distinction. But more importantly, they suggest that the division in working memory cannot be simply represented as a static, binary feature representation (e.g., [+/- main]). Instead, using a question-based framework to represent discourse, I argue that the incremental update of the discourse question approach suitably explains it. The findings open up an interesting avenue of research, which I will also discuss at the end of the talk.<br><br>
 
 * **Kate Stone** (University of Potsdam)
 : _Preventing illusions of plausibility in semantically implausible sentences: The role of time_
