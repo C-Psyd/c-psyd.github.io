@@ -16,7 +16,8 @@ C.Psyd meetings consist of paper presentations, project workshopping, invited sp
 
 **2024**
 * **Leonie Weissweiler** (Princeton University)
-* _TBD_<br><br>
+: _Finding the Limits of LLMs with Constructions_
+: The linguistic capabilities of LLMs have become increasingly human-like, to the point where they are now being proposed as evidence in the debate over the mechanisms of human language learning. However, I argue that some linguistic shortcomings of LLMs have so far been overlooked, because of the challenges of designing evaluation setups for semantically complex and rare language phenomena, such as constructions. I will propose strategies for overcoming these challenges and present several empirical results that demonstrate the enduring weaknesses of LLMs in different areas of linguistics.<br><br>
 
 * **Sanghee Kim** (University of Chicago)
 : _Knowing what's important during language comprehension_
