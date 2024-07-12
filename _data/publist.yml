@@ -1,3 +1,43 @@
+- title: "Semantics or Spelling? Probing contextual word embeddings with orthographic noise"
+  image: beach.png
+  description: 
+  authors: J Matthews, J Starr, M van Schijndel
+  link:
+    url: 
+    display: Proc. Findings ACL (2024)
+  highlight: 0
+  news2:
+
+- title: "Does Dependency Locality Predict Non-canonical Word Order in Hindi?"
+  image: beach.png
+  description: 
+  authors: S Ranjan, M van Schijndel
+  link:
+    url: http://arxiv.org/abs/2405.07730
+    display: Proc. Cogsci (2024)
+  highlight: 0
+  news2: 
+
+- title: "Discourse Context Modulates Phonotactic Processing"
+  image: beach.png
+  description: 
+  authors: J Starr, M van Schijndel
+  link:
+    url: 
+    display: Proc. AMP (2023)
+  highlight: 0
+  news2: 
+
+- title: "Linguistic Compression in Single-Sentence Human-Written Summaries"
+  image: beach.png
+  description: In this paper we study the linguistic compression function used by humans to generate single sentence summaries.
+  authors: F Yin, M van Schijndel
+  link:
+    url: https://aclanthology.org/2023.findings-emnlp.532/
+    display: Proc. Findings of EMNLP (2023)
+  highlight: 0
+  news2: 
+
 - title: "Discourse Context Predictability Effects in Hindi Word Order"
   image: beach.png
   description: We test the hypothesis that discourse predictability influences Hindi syntactic choice. We show that information status and discourse predictability both influence word order choices, especially for non-canonical object-fronted orders.
