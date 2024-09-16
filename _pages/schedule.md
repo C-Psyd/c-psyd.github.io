@@ -15,6 +15,12 @@ C.Psyd meetings consist of paper presentations, project workshopping, invited sp
 # Invited Speakers
 
 **2024**
+* **Venkata Govindarajan** (Ithaca College)
+: _Modeling Intergroup bias in online sports comments_
+: Social bias in language is generally studied by identifying undesirable language use towards a specific demographic group, but we can enrich our understanding of communication by re-framing bias as differences in behavior situated in social relationships — specifically, the intergroup relationship between the speaker and target reference of an utterance. In this talk, I will describe my work modeling this intergroup bias as a tagging task on referential expressions in English sports comments from forums dedicated to fandom NFL teams.  
+
+We curate a unique dataset of over 6 million game-time comments from opposing perspectives, each comment grounded in a non-linguistic description of the events that precipitated these comments (live win probabilities). For large-scale analysis of intergroup language variation, we use LLMs for automated tagging, and discover that some LLMs perform best when prompted with linguistic descriptions of the win probability at the time of the comment, rather than numerical probabilities. Further, large-scale tagging of comments using LLMs uncovers linear variations in the form of referent across win probabilities that distinguish in-group and out-group utterances.
+
 * **Leonie Weissweiler** (Princeton University)
 : _Finding the Limits of LLMs with Constructions_
 : The linguistic capabilities of LLMs have become increasingly human-like, to the point where they are now being proposed as evidence in the debate over the mechanisms of human language learning. However, I argue that some linguistic shortcomings of LLMs have so far been overlooked, because of the challenges of designing evaluation setups for semantically complex and rare language phenomena, such as constructions. I will propose strategies for overcoming these challenges and present several empirical results that demonstrate the enduring weaknesses of LLMs in different areas of linguistics.<br><br>
