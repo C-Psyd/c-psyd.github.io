@@ -1,11 +1,11 @@
 - title: "Semantics or Spelling? Probing contextual word embeddings with orthographic noise"
-  image: beach.png
-  description: 
+  image: matthews_etal-2024-spelling.png
+  description: We show that semantic content accounts for less than 50% of most English contextual word embeddings even given 100 words of context.
   authors: J Matthews, J Starr, M van Schijndel
   link:
-    url: 
+    url: https://aclanthology.org/2024.findings-acl.266/
     display: Proc. Findings ACL (2024)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Does Dependency Locality Predict Non-canonical Word Order in Hindi?"
@@ -29,13 +29,13 @@
   news2: 
 
 - title: "Linguistic Compression in Single-Sentence Human-Written Summaries"
-  image: beach.png
-  description: In this paper we study the linguistic compression function used by humans to generate single sentence summaries.
+  image: yin_vs-2023-extreme_compression.png
+  description: We study the linguistic compression function used by humans to generate single sentence summaries, and we examine the preference mismatches between summary writers and summary readers.
   authors: F Yin, M van Schijndel
   link:
     url: https://aclanthology.org/2023.findings-emnlp.532/
     display: Proc. Findings of EMNLP (2023)
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: "Discourse Context Predictability Effects in Hindi Word Order"
@@ -95,7 +95,7 @@
   link:
     url: https://aclanthology.org/2021.acl-long.93.pdf
     display: Proc. ACL-IJCNLP (2021)
-  highlight: 1
+  highlight: 0
   news2: 
 
 - title: "To Point or Not to Point: Understanding How Abstractive Summarizers Paraphrase Text"
@@ -105,7 +105,7 @@
   link:
     url: https://aclanthology.org/2021.findings-acl.298.pdf
     display: Findings of ACL-IJCNLP (2021)
-  highlight: 1
+  highlight: 0
   news2: 
 
 - title: "Analytical, Symbolic and First-Order Reasoning within Neural Architectures"
@@ -165,7 +165,7 @@
   link:
     url: https://aclanthology.org/2020.acl-main.179.pdf
     display: Proc. ACL (2020)
-  highlight: 1
+  highlight: 0
   news2: 
 
 - title: "Quantity doesn't buy quality syntax with neural language models"
