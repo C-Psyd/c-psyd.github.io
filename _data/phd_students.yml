@@ -8,19 +8,19 @@
 #  education3:
 #  education4:
 
-- name: Chloe Kwon
-  photo: chloe_kwon.jpg
+- name: Qi Han
+  photo: beach.svg
   info: PhD Student
-  email: dk837@cornell.edu
+  email: qh246@cornell.edu
   number_educ: 1
-  education1: phonetics, computational linguistics, prosody
+  education1: telicity, semantics, computational linguistics 
 
-- name: <a href="https://kaelyn-lamp.github.io/">Kaelyn Lamp</a>
-  photo: kaelyn_lamp.jpg
+- name: <a href="https://zander-lynch.github.io">Zander Lynch</a>
+  photo: zander_lynch.jpg
   info: PhD Student
-  email: kjl227@cornell.edu
+  email: zcl7@cornell.edu
   number_educ: 1
-  education1: phonetics, computational semantics, Bayesian statistics
+  education1: psycholinguistics, semantics, modifiers, historical linguistics
 
 - name: <a href="http://jam963.github.io/">Jacob Matthews</a>
   photo: jacob_matthews.jpg
@@ -36,13 +36,6 @@
   number_educ: 1
   education1: computational psycholinguistics, sentence processing, experimental pragmatics
 
-- name: <a href="https://overtherhyne.github.io/">Joseph Rhyne</a>
-  photo: joseph_rhyne.jpg
-  info: PhD Student
-  email: jtr92@cornell.edu
-  number_educ: 1
-  education1: computational historical linguistics, modeling language change
-
 - name: <a href="https://johnstarr-ling.github.io">John Starr</a>
   photo: john_starr.jpg
   info: PhD Student
@@ -50,12 +43,19 @@
   number_educ: 1
   education1: psycholinguistics, phonology, computational linguistics
 
-- name: <a href="https://nianpo.github.io">Nianpo Su</a>
-  photo: nianpo_su.jpg
+- name: Ashlyn Winship
+  photo: beach.svg
   info: PhD Student
-  email: ns674@cornell.edu
+  email: alw329@cornell.edu
   number_educ: 1
-  education1: language acquisition, syntax, psycholinguistics, language processing
+  education1: computational linguistics, code-switching
+
+- name: Yifan Wu
+  photo: beach.svg 
+  info: PhD Student
+  email: yw2578@cornell.edu
+  number_educ: 1
+  education1: scalar implicature, pragmatics
 
 - name: <a href="https://zhaofylisa.github.io/">Fengyue Zhao</a>
   photo: lisa_zhao.jpg
@@ -63,3 +63,4 @@
   email: fz227@cornell.edu
   number_educ: 1
   education1: computational linguistics, psycholinguistics, phonetics
+
