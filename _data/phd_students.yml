@@ -9,7 +9,7 @@
 #  education4:
 
 - name: Qi Han
-  photo: beach.svg
+  photo: qi_han.jpg
   info: PhD Student
   email: qh246@cornell.edu
   number_educ: 1
@@ -44,14 +44,14 @@
   education1: psycholinguistics, phonology, computational linguistics
 
 - name: Ashlyn Winship
-  photo: beach.svg
+  photo: ashlyn_winship.jpg
   info: PhD Student
   email: alw329@cornell.edu
   number_educ: 1
   education1: computational linguistics, code-switching
 
 - name: Yifan Wu
-  photo: beach.svg 
+  photo: yifan_wu.jpg
   info: PhD Student
   email: yw2578@cornell.edu
   number_educ: 1
