@@ -14,6 +14,17 @@ C.Psyd meetings consist of paper presentations, project workshopping, invited sp
 
 # Invited Speakers
 
+**2025**
+* **Omri Abend** (Hebrew University)
+: _Modeling Crime Fiction with LLMs_
+: Storytelling is often viewed as one of the defining characteristics of humans and human cultures. It requires an intricate set of abilities, including (partially) adhering to the conventions and schemata of their domain. We focus on the domain of golden age detective fiction, and study LLM-generated short stories through the process by which the culprit’s identity is revealed. We formalize some conventional properties of such processes, and study generated stories in terms of their compliance with these conventions. We argue that from a literary
+point of view, the coherence and the unpredictability of such fiction are in inherent tension, and should be studied jointly. We empirically show that while LLM-generated stories tend to be unpredictable, they fail at balancing this trade-off, which greatly contributes to their poor quality. Time permitting, I will discuss a related line of work on formalizing different interpretations of LLM output distributions.<br>
+Joint work with Eitan Wagner and Renana Keydar.<br><br>
+
+* **Michelle Suijkerbuijk** (Radboud University)
+: _The success of Neural Language Models on syntactic island effects is not universal: strong wh-island sensitivity in English but not in Dutch_
+: A much-debated question in linguistics is whether we are born with a language-specific learning capacity or whether we can learn language from input alone. NLMs can help shed light on this question as these learn solely from their input in combination with their inductive biases and have no built-in linguistic representations. Recently, researchers have been investigating whether NLMs can model syntactic island effects, one of the most studied phenomena in experimental syntax and an ideal test bed because they rarely occur in training data and NLMs have no built-in linguistic knowledge to fall back on. In the present study, however, two problems with this existing research are addressed that make it difficult to claim that NLMs represent island effects comparable to humans: (1) the behaviors of NLMs are almost never compared to human data and (2) are almost exclusively researched in English. The current study thus investigated whether an NLM can represent a wh-island sensitivity comparable to humans and improved on previous research by testing both an NLM and human participants and by comparing NLM and human behaviors in both English and Dutch. The results show that the NLM can model a human-like wh-island sensitivity, but only in English. Consequently, more cross-linguistic research is necessary before NLMs can be claimed to bear on the human capacity for grammar learning.<br><br>
+
 **2024**
 * **Noga Zaslavsky** (NYU)
 : _Losing bits and finding meaning: Efficient compression shapes meaning in language_
